@@ -1,3 +1,4 @@
 - [脚手架工具]
 - [相关教程-知乎](https://zhuanlan.zhihu.com/p/105846231)
 - [npm包发布教程](https://www.jianshu.com/p/40f732d91a8c)
+- [修改仓库名](https://blog.csdn.net/weixin_30363509/article/details/96434417)
