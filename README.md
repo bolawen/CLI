@@ -1,4 +1,15 @@
-- [脚手架工具]
-- [相关教程-知乎](https://zhuanlan.zhihu.com/p/105846231)
-- [npm包发布教程](https://www.jianshu.com/p/40f732d91a8c)
-- [修改仓库名](https://blog.csdn.net/weixin_30363509/article/details/96434417)
+## bolawen-cli 介绍
+
+提供了基于 Webpack 、Vite 脚手架搭建的 React 、Vue 项目
+
+## bolawen-cli 操作:
+
+1. 使用`bolawen`创建项目
+
+```
+bolawen create 项目名
+```
+
+2. 此时，选择想要的模板，确定。bolawen-cli 提供了 vite-vue vite-react webpack-vue3-typescript 模本供其选择
+
+3. 安装依赖，即可使用
