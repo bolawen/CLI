@@ -1,3 +1,2 @@
-const { openBlog } = require("../lib/core/action");
-
-openBlog();
+const { openBlog, openNginx } = require("../lib/core/action");
+openNginx();
